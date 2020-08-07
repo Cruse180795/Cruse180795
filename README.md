@@ -1,4 +1,4 @@
-Hi there my name is Ryan. I'm a Software Developer who is passinoate about making games.
+Hi there my name is Ryan. I'm a Software Developer who is passionate about making games.
 
 - 🔭 I’m currently working on GameDevHQ Courses, working towards their certification
 - 🌱 I’m currently learning Unity Engine and C#
